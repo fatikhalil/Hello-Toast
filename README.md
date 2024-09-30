@@ -16,8 +16,8 @@ Ce projet Android, "Hello Toast", est une application simple qui illustre l'util
 ## Configuration du projet
 
 1. **Cloner le dépôt :**
-   ```bash
-   git clone https://github.com/votre-utilisateur/hello-toast.git
+
+   git clone  https://github.com/fatikhalil/Hello-Toast
 ## Ouvrir le projet
 
 1. Ouvrez Android Studio.
