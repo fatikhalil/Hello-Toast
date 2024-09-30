@@ -1,0 +1,56 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="84dp"
+        android:background="#E9B870"
+        android:text="Hello Toast"
+        android:textAlignment="center"
+        android:textColor="#121212"
+        android:textSize="34sp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/btn_toast"
+        android:layout_width="350dp"
+        android:layout_height="105dp"
+        android:backgroundTint="#88BDE6"
+        android:insetLeft="20dp"
+        android:insetTop="20dp"
+        android:insetBottom="20dp"
+        android:text="TOAST"
+        android:textColor="#101010"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/tv_counter"
+        android:layout_width="400dp"
+        android:layout_height="339dp"
+        android:background="#FBD7A3"
+        android:text="0"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#181717"
+        android:textSize="200dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_increment"
+        android:layout_width="350dp"
+        android:layout_height="85dp"
+        android:backgroundTint="#88BDE6"
+        android:insetLeft="20dp"
+        android:insetTop="20dp"
+        android:text="COUNT"
+        android:textColor="#141313"
+        android:textSize="20dp"
+        android:textStyle="bold|italic" />
+
+</LinearLayout>
